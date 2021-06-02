@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-20T10:57:08 EDT" name="Suite" finished-at="2021-05-20T10:57:08 EDT" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2021-05-20T10:57:08 EDT" name="Test" finished-at="2021-05-20T10:57:08 EDT" duration-ms="46">
+      <class name="tests.TestClass3">
+        <test-method signature="test3(java.lang.String)[pri:0, instance:tests.TestClass3@50a638b5]" started-at="2021-05-20T10:57:08 EDT" name="test3" data-provider="testdata" finished-at="2021-05-20T10:57:08 EDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test3(java.lang.String)[pri:0, instance:tests.TestClass3@50a638b5]" started-at="2021-05-20T10:57:08 EDT" name="test3" data-provider="testdata" finished-at="2021-05-20T10:57:08 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deeps]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test3(java.lang.String)[pri:0, instance:tests.TestClass3@50a638b5]" started-at="2021-05-20T10:57:08 EDT" name="test3" data-provider="testdata" finished-at="2021-05-20T10:57:08 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dhwani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- tests.TestClass3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

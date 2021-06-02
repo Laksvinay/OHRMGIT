@@ -1,0 +1,4 @@
+username=Admin
+password=admin123
+url=https://opensource-demo.orangehrmlive.com
+driverpath=C:\Users\laksh\eclipse-workspace\SeleniumFrameworkInt\src\main\java\drivers\geckodriver.exe
