@@ -15,6 +15,7 @@ public class TestClass3 {
 	public void test3(String names)
 	{
 		System.out.println("test3 executed");
+		System.out.println("branch executed");
 		System.out.println(names);
 	}
 
